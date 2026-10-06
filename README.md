@@ -25,7 +25,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects a
 
 ## 🚀 Featured Projects
 
-- **[Dulhan Saree Collection]((https://dulhan-saree-collection.netlify.app))**: a live business website for a saree shop in Govandi, Mumbai
+- **[Dulhan Saree Collection]([.netlify.app/](https://dulhan-saree-collection.netlify.app))**: a live business website for a saree shop in Govandi, Mumbai
 - **[PhoneBazaar](https://github.com/mominzaiddev/Phonebazaar-Ecom-Web)**: a responsive phone shopping UI
 - **Weather App**: a weather app that uses an API
 - **To-Do List**: a task manager built to practice JavaScript logic
